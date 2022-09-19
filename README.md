@@ -36,7 +36,7 @@
 
 先base64解码一次
 
-<img src="/Users/lvzhibo/Library/Application Support/typora-user-images/image-20220919234554253.png" alt="image-20220919234554253" style="zoom:50%;" />
+<img src="./images/Base64Decode1.png" alt="image-20220919234554253" style="zoom:50%;" />
 
 获取实际加载的字节码，反编译
 
