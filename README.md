@@ -10,7 +10,7 @@
 
 ## BCEL解码+反编译
 
-![image-20220919233253396](/Users/lvzhibo/IdeaProjects/BytecodeTool/BytecodeToolGit/images/BcelDecode.png)
+![image-20220919233253396](./images/BcelDecode.png)
 
 
 
@@ -22,11 +22,11 @@
 
 添加http头`cmd:whoami`
 
-![](/Users/lvzhibo/IdeaProjects/BytecodeTool/BytecodeToolGit/images/BcelEncode1.png)
+![](./images/BcelEncode1.png)
 
 解码查看代码
 
-![image-20220919233702839](/Users/lvzhibo/IdeaProjects/BytecodeTool/BytecodeToolGit/images/BcelEncode2.png)
+![image-20220919233702839](./images/BcelEncode2.png)
 
 
 
@@ -40,8 +40,8 @@
 
 获取实际加载的字节码，反编译
 
-![image-20220919234720281](/Users/lvzhibo/IdeaProjects/BytecodeTool/BytecodeToolGit/images/Base64Decode2.png)
+![image-20220919234720281](./images/Base64Decode2.png)
 
 ## Base64字节码编码
 
-![image-20220919235027308](/Users/lvzhibo/IdeaProjects/BytecodeTool/BytecodeToolGit/images/Base64Encode.png)
+![image-20220919235027308](./images/Base64Encode.png)
